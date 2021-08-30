@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @geck004
+- 🌱 I’m currently learning Java, VueJs
+- 📫 How to reach me giacomo.simon@hotmail.com
